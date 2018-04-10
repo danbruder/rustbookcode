@@ -1,0 +1,6 @@
+[package]
+name = "rmgit"
+version = "0.1.0"
+authors = ["Dan Bruder <dbruder@rapiddg.com>"]
+
+[dependencies]
